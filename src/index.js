@@ -5,7 +5,8 @@ import App from "./App"
 
 // redux
 import store from "./store"
-// rem适配
+// 引入antd的样式
+import 'antd/dist/antd.css';
 
 
 ReactDOM.render(
